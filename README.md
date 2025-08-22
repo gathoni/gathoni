@@ -36,7 +36,6 @@
 ### 📊 GitHub Stats  
 ![Gathoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gathoni&show_icons=true&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=gathoni&theme=radical)](https://git.io/streak-stats)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gathoni&theme=radical) 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gathoni&theme=radical)  
 
 ---
