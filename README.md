@@ -1,6 +1,5 @@
 <h1 align="center">Lydia Gathoni</h1>
-<h3 align="center">AI, Automation & Innovation | Tech Leader | Speaker | Woman in STEM</h3>
-
+<h3 align="center">AI, Automation & Innovation | Digital Transformation | Speaker</h3>
 ---
 
 ### 🌟 About Me  
