@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Lydia Gathoni
+# Lydia Gathoni
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+Automation;Digital+Transformation;Strategy+Innovation;Industry+Speaker;MBA+Student+%7C+AI+%2B+Blockchain" alt="Typing SVG" />
 
