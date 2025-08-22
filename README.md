@@ -152,7 +152,7 @@ const Gathoni = {
   ├── 🤖 Artificial Intelligence in Business
   ├── ⚡ Automation & Digital Transformation  
   ├── 👩‍💼 Women in Tech Leadership
-  ├── 🚀 AI 
+  ├── 🚀 AI $ Emerging Trends
   └── 🎯 Strategic Technology Implementation
 ```
 
